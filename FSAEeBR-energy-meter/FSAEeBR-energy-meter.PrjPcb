@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for FSAEeBR-energy-meter
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -507,6 +507,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUXFYCMN
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FSAEeBR-energy-meter\Design Rule Check - FSAEeBR-energy-meter.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 18-52-15.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 18-59-54.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 19-03-31.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 19-06-33.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 19-11-52.WAS
+DItemRevisionGUID=
+
 [Parameter1]
 Name=project_name
 Value=FSAEeBR Energy Meter
@@ -562,7 +586,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for FSAEeBR-energy-meter
 
 [OutputGroup1]
 Name=Netlist Outputs
