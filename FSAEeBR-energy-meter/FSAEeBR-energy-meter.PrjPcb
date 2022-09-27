@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for FSAEeBR-energy-meter
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -507,6 +507,135 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUXFYCMN
 
+[Document28]
+DocumentPath=Jobs\mfg_pkg.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FSAEeBR-energy-meter\Design Rule Check - FSAEeBR-energy-meter.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 18-52-15.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 18-59-54.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 19-03-31.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 19-06-33.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 19-11-52.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=FSAEeBR-energy-meter 23-09-2022 20-58-53.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Packages\mfg_pkg\NC Drill\FSAEeBR-energy-meterv1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Packages\mfg_pkg\NC Drill\FSAEeBR-energy-meterv1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Packages\mfg_pkg\Gerber\FSAEeBR-energy-meterv1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Packages\mfg_pkg\NC Drill\FSAEeBR-energy-meterv1.TXT
+DItemRevisionGUID=
+
 [Parameter1]
 Name=project_name
 Value=FSAEeBR Energy Meter
@@ -562,7 +691,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for FSAEeBR-energy-meter
 
 [OutputGroup1]
 Name=Netlist Outputs
